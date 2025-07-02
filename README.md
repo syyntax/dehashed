@@ -13,7 +13,7 @@ This Python script uses the [DeHashed API](https://www.dehashed.com/) to search 
 ## Installation
 Clone the repository or download the script:
 ```bash
-git  clone  https://github.com/yourusername/dehashed-tool.git
+git  clone  https://github.com/syyntax/dehashed.git
 cd  dehashed-tool
 ```
 Install required dependencies (if any):
