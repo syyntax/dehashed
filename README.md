@@ -14,7 +14,7 @@ This Python script uses the [DeHashed API](https://www.dehashed.com/) to search 
 Clone the repository or download the script:
 ```bash
 git  clone  https://github.com/syyntax/dehashed.git
-cd  dehashed-tool
+cd  dehashed
 ```
 Install required dependencies (if any):
 ```bash
