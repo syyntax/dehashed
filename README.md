@@ -39,11 +39,11 @@ python3  dehashed.py  -q  "example.com"  -o
 *  `userpass.txt`: Each line in the format `email:password`.
 ## Example
 ```bash
-$  python3  dehashed.py  -q  "ballinger-ae.com"  -o
-[+] Searching DeHashed for  'ballinger-ae.com'...
+$  python3  dehashed.py  -q  "example.com"  -o
+[+] Searching DeHashed for  'example.com'...
 [+] Found 7 results.
 [+] Writing results to files...
-[+] Done. Output saved to users.lst, pass.lst, userpass.lst
+[+] Done. Output saved to users.txt, pass.txt, userpass.txt
 ```
 ## Disclaimer
 This script is intended for **authorized use only**. Always ensure you have permission before querying domains you do not own. Misuse of this tool may violate laws or terms of service.
